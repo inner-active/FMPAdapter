@@ -53,10 +53,6 @@
 - (void)adDidShow;
 - (void)adDidFailToShow;
 - (void)adDidClick;
-
-- (void)adWillPresentModalView;
-- (void)adDidDismissModalView;
-
 - (void)adWillLeaveApplication;
 
 @end
@@ -69,6 +65,9 @@
 - (void)adDidLoadView:(nonnull UIView *)view;
  
 - (void)adDidResizeToFrame:(CGRect)frame;
+
+- (void)adWillPresentModalView;
+- (void)adDidDismissModalView;
  
 @end
 
