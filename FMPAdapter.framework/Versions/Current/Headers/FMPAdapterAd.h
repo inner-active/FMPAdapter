@@ -3,7 +3,7 @@
 //  FMPAdapter
 //
 //  Created by Fyber on 28/01/2020.
-//  Copyright © 2020 Inneractive. All rights reserved.
+//  Copyright © 2020 Fyber. All rights reserved.
 //
 
 #ifndef FMPAdapterAd_h

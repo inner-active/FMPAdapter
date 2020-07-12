@@ -3,14 +3,14 @@
 //  FMPAdapter
 //
 //  Created by Fyber on 22/01/2020.
-//  Copyright © 2020 Inneractive. All rights reserved.
+//  Copyright © 2020 Fyber. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
 
-#import "FMPAdapterAd.h"
-#import "FMPAdapterAuctionParameters.h"
-#import "FMPAdapterAdData.h"
+#import <FMPAdapter/FMPAdapterAd.h>
+#import <FMPAdapter/FMPAdapterAuctionParameters.h>
+#import <FMPAdapter/FMPAdapterAdData.h>
 
 NS_ASSUME_NONNULL_BEGIN
 
