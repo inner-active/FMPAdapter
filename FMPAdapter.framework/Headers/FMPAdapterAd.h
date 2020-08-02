@@ -38,7 +38,9 @@
 
 @required
 @property (nonatomic, weak, nullable) id<FMPAdapterFullscreenAdDelegate> delegate; // override
- 
+
+
+- (BOOL)isAvailable;
 - (void)showInViewController:(nullable UIViewController *)viewController;
  
 @end
