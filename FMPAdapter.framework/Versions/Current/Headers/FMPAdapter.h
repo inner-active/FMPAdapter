@@ -32,7 +32,8 @@ typedef NS_ENUM(NSUInteger) {
 - (void)initWithAppId:(nonnull NSString *)appId FairBidSDKVersion:(nonnull NSString *)version logLevel:(FMPLoggingLevel)logLevel;
 
 - (nonnull NSString *)version;
-- (nullable FMPAdapterAuctionParameters *)auctionParameters;
+- (nullable FMPAdapterAuctionParameters *)auctionParameters; // legacy
+- (nullable FMPAdapterAuctionParameters *)auctionParameters:(nonnull NSString *)placementId;
 - (nonnull NSString *)userAgent;
 
 - (id<FMPAdapterBannerAd>)bannerAd;

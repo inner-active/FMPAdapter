@@ -25,7 +25,9 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, copy, readonly, nullable) NSString *secure;
 @property (nonatomic, readonly) NSInteger supportedTypes;
 
-@property (atomic, copy, readonly, nullable) NSDictionary *marketplaceExtraParams;
+@property (atomic, copy, readonly, nullable) NSDictionary *marketplaceEntry;
+
++ (FMPAdapterAuctionParameters *)auctionParametersForPlacement:(nonnull NSString *)placementId;
 
 @end
 
