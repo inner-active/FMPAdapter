@@ -24,6 +24,8 @@ typedef NS_ENUM(NSUInteger) {
 
 @interface FMPAdapter : NSObject
 
+@property (nonatomic, getter=isMuted) BOOL muted;
+
 /**
  *  @brief Singleton method, use for any instance call.
  */
