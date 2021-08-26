@@ -4,4 +4,3 @@ framework module FMPAdapter {
         export *
         module * { export * }
 }
-
