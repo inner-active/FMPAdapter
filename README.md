@@ -1,2 +1,3 @@
-# FMPAdapter
-Fyber Fairbid SDK dependency lib. Is intended for the internal usage.
+# DTX iOS SDK FMPAdapter
+
+DT FairBid SDK dependency framework. Is intended for the internal usage.
