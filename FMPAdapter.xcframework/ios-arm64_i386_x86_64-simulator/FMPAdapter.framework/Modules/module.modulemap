@@ -1,6 +1,0 @@
-
-framework module FMPAdapter {
-    umbrella header "FMPAdapter.h"
-        export *
-        module * { export * }
-}
