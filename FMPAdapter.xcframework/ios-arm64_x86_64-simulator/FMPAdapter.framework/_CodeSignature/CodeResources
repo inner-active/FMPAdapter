@@ -22,7 +22,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		8pTM952GOOe5jlBMtIm4UmPMFio=
+		X0Fayv7+WNoQTtGBmg393SpqkVM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -49,6 +49,10 @@
 	<dict>
 		<key>Headers/FMPAdapter.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			uXgHTsCTnUVqsFBAclKmt+hhxFg=
+			</data>
 			<key>hash2</key>
 			<data>
 			tCCMUaMK0vuhzjxMmtji4CQqDoHqABa6VyuomPmDG4E=
@@ -56,6 +60,10 @@
 		</dict>
 		<key>Headers/FMPAdapterAd.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			F286xapfX9FYnAixnywbyIUpheI=
+			</data>
 			<key>hash2</key>
 			<data>
 			utjnm+l7Gfc1Y1FDV0BEbl6LKzMhhW8SLotlUxwwLUs=
@@ -63,6 +71,10 @@
 		</dict>
 		<key>Headers/FMPAdapterAdData.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			xNgK2bA9i1MvZs/yCvqUgPd1e9M=
+			</data>
 			<key>hash2</key>
 			<data>
 			qYgw+K/qbIJ2vLNpR5jC6fwKG2XphTEpkVSIYc82VBo=
@@ -70,6 +82,10 @@
 		</dict>
 		<key>Headers/FMPAdapterAuctionParameters.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			0iP80JkZM0IXprY+97f4OCc2Q9w=
+			</data>
 			<key>hash2</key>
 			<data>
 			HFrZsrhepb/b43/LfwQPeM9RFb5t4bACjn89mX2Swvs=
@@ -77,6 +93,10 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			KZZIo4FD4G6Hatdc8aaqlcxZWcA=
+			</data>
 			<key>hash2</key>
 			<data>
 			Q1/g4ooZdNs8LyzdAce7L4UFy/vnft+7bUXECS+NbPI=
@@ -84,6 +104,10 @@
 		</dict>
 		<key>PrivateHeaders/FMPAdapterInternal.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			6U67GORZowjYytWiMQe2fC35fl0=
+			</data>
 			<key>hash2</key>
 			<data>
 			r32peg4hM0T7iao4nu60TCuWyeUU85yKYOk3yG6c6aE=
@@ -91,6 +115,10 @@
 		</dict>
 		<key>PrivateHeaders/FMPAdapterPrivateAd.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			LJXGKOGaMAJUMJvIt5ZNILBM/S8=
+			</data>
 			<key>hash2</key>
 			<data>
 			yhMd8IKgZmeQpVMBPrGCjqozfut1AwLDMqHJvsUA9mM=
@@ -98,6 +126,10 @@
 		</dict>
 		<key>PrivateHeaders/FMPAdapterPrivateBannerAd.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			EzliqYK3BTzsdXrt7pXXE4eS/so=
+			</data>
 			<key>hash2</key>
 			<data>
 			tz+f9YS1f1eVsSOeShm/YUFdBk3qxqc52Xsd1S9Idck=
@@ -105,6 +137,10 @@
 		</dict>
 		<key>PrivateHeaders/FMPAdapterPrivateFullscreenAd.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			uPZiQxBDSjanbTzqzvFMq0uGKsM=
+			</data>
 			<key>hash2</key>
 			<data>
 			IfScPI5IGhw0lB49jWoTML6jd9ZHqIyNwkJr1aFhHAU=
