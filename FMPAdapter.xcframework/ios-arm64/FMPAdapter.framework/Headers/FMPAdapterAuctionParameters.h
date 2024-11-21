@@ -14,7 +14,6 @@ NS_ASSUME_NONNULL_BEGIN
 
 @property (nonatomic, copy, readonly, nullable) NSArray<NSNumber *> *apis;
 @property (nonatomic, copy, readonly, nullable) NSArray<NSNumber *> *protocols;
-@property (nonatomic, copy, readonly, nullable) NSArray<NSString *> *mimes;
 @property (nonatomic, copy, readonly, nullable) NSString *language;
 @property (nonatomic, copy, readonly, nullable) NSArray<NSString *> *inputLanguages;
 @property (nonatomic, copy, readonly, nullable) NSString *deviceModel;
