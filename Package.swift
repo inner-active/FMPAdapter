@@ -30,7 +30,7 @@ let package = Package(
         .binaryTarget(
             name: "FMPAdapter",
             url: "https://cdn2.inner-active.mobi/fmp-sdk/files/FMPAdapter-iOS-SPM-8.4.7.zip",
-            checksum: "64ce976129f85f2af0c0cf271e34430ee39e288be68b972ce5afaed5e79f404a" 
+            checksum: "76adc05017945b94f9d2b2f6d9a802998075b003875f6602bbd5341b15539645" 
         ),
     ]
 )
