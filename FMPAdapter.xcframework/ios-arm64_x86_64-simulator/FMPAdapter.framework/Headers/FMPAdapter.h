@@ -17,6 +17,7 @@ FOUNDATION_EXPORT const unsigned char FMPAdapterVersionString[];
 #import <FMPAdapter/FMPAdapterAd.h>
 #import <FMPAdapter/FMPAdapterAuctionParameters.h>
 #import <FMPAdapter/FMPAdapterAdData.h>
+#import <FMPAdapter/FMPAdapterNativeAdAssets.h>
 
 NS_ASSUME_NONNULL_BEGIN
 
@@ -46,6 +47,7 @@ typedef NS_ENUM(NSUInteger) {
 
 - (id<FMPAdapterBannerAd>)bannerAd;
 - (id<FMPAdapterFullscreenAd>)fullscreenAd;
+- (id<FMPAdapterNativeAd>)nativeAd;
 
 @end
 
