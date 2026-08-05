@@ -6,15 +6,15 @@
 	<dict>
 		<key>ios-arm64/FMPAdapter.framework/FMPAdapter</key>
 		<data>
-		87nmkw0o3IHp5GqOur+0HusClOQ=
+		4IuUd7K1e3mZl3uQ4WxHpv+uNuE=
 		</data>
 		<key>ios-arm64/FMPAdapter.framework/Headers/FMPAdapter.h</key>
 		<data>
-		uXgHTsCTnUVqsFBAclKmt+hhxFg=
+		DJqQp8BrRn/ddVPl16nn9MJ1T4M=
 		</data>
 		<key>ios-arm64/FMPAdapter.framework/Headers/FMPAdapterAd.h</key>
 		<data>
-		F286xapfX9FYnAixnywbyIUpheI=
+		Gy8CFr5kXEtaPZ9XQ4o4SPsjP+4=
 		</data>
 		<key>ios-arm64/FMPAdapter.framework/Headers/FMPAdapterAdData.h</key>
 		<data>
@@ -24,9 +24,13 @@
 		<data>
 		Ss9QMYptuCJ1zc5dKX94hvGjlp8=
 		</data>
+		<key>ios-arm64/FMPAdapter.framework/Headers/FMPAdapterNativeAdAssets.h</key>
+		<data>
+		6svssy6sIS+UDGRdg9LhVL6To80=
+		</data>
 		<key>ios-arm64/FMPAdapter.framework/Info.plist</key>
 		<data>
-		Fm62sSZVoI/QRK5bdV01oACPsOc=
+		1MW/AVqui++eoL08aURb3HcG03Y=
 		</data>
 		<key>ios-arm64/FMPAdapter.framework/Modules/module.modulemap</key>
 		<data>
@@ -34,7 +38,7 @@
 		</data>
 		<key>ios-arm64/FMPAdapter.framework/_CodeSignature/CodeDirectory</key>
 		<data>
-		UsZHqkLoAIaeNV2850yV3zaAFHQ=
+		eBTxG9KC34/vU1Ppwsj5InP1icU=
 		</data>
 		<key>ios-arm64/FMPAdapter.framework/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -42,23 +46,23 @@
 		</data>
 		<key>ios-arm64/FMPAdapter.framework/_CodeSignature/CodeResources</key>
 		<data>
-		CAjBCHwe2g1MRv4vr03SCOPpuJE=
+		jxf7LcwS1kxpvZ+7pXmiToN5IhU=
 		</data>
 		<key>ios-arm64/FMPAdapter.framework/_CodeSignature/CodeSignature</key>
 		<data>
-		8zN3rpNwkiEkbyjVlLUVolQd9kk=
+		Z7I1LutEGk9gIrKqVOikcXkyYrA=
 		</data>
 		<key>ios-arm64_x86_64-simulator/FMPAdapter.framework/FMPAdapter</key>
 		<data>
-		LF92oxXUOrL0Hbo+G1f8Gl8+G9c=
+		TbccRIQg9wyNzlzmBz32UG9MlpY=
 		</data>
 		<key>ios-arm64_x86_64-simulator/FMPAdapter.framework/Headers/FMPAdapter.h</key>
 		<data>
-		uXgHTsCTnUVqsFBAclKmt+hhxFg=
+		DJqQp8BrRn/ddVPl16nn9MJ1T4M=
 		</data>
 		<key>ios-arm64_x86_64-simulator/FMPAdapter.framework/Headers/FMPAdapterAd.h</key>
 		<data>
-		F286xapfX9FYnAixnywbyIUpheI=
+		Gy8CFr5kXEtaPZ9XQ4o4SPsjP+4=
 		</data>
 		<key>ios-arm64_x86_64-simulator/FMPAdapter.framework/Headers/FMPAdapterAdData.h</key>
 		<data>
@@ -68,9 +72,13 @@
 		<data>
 		Ss9QMYptuCJ1zc5dKX94hvGjlp8=
 		</data>
+		<key>ios-arm64_x86_64-simulator/FMPAdapter.framework/Headers/FMPAdapterNativeAdAssets.h</key>
+		<data>
+		6svssy6sIS+UDGRdg9LhVL6To80=
+		</data>
 		<key>ios-arm64_x86_64-simulator/FMPAdapter.framework/Info.plist</key>
 		<data>
-		jr+a7deOCsyLlfXjuYUnNmwlp6U=
+		VU3bnBB9mFF0RaP8lVCVkhwoNSg=
 		</data>
 		<key>ios-arm64_x86_64-simulator/FMPAdapter.framework/Modules/module.modulemap</key>
 		<data>
@@ -78,7 +86,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/FMPAdapter.framework/_CodeSignature/CodeDirectory</key>
 		<data>
-		TNG9gcJ6g7PD1bc/MOsX1OhZOGE=
+		Cu9IRUT9qSa6DmfX8t54MTAxqPw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/FMPAdapter.framework/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -86,7 +94,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/FMPAdapter.framework/_CodeSignature/CodeResources</key>
 		<data>
-		OOlDaxND/riCtwrjVaw6lVhTQ9o=
+		5VYAV//XkKQrspevneBUmnnQx+8=
 		</data>
 		<key>ios-arm64_x86_64-simulator/FMPAdapter.framework/_CodeSignature/CodeSignature</key>
 		<data>
@@ -99,21 +107,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			odQ1Ws1dlEATjxLiEJGcJ0kTpyewRbWmDqnmnKOSyvE=
+			naMmdDZKRYJzqxH1gJzWOYi5rA7lepoeXdjm/nOJo5k=
 			</data>
 		</dict>
 		<key>ios-arm64/FMPAdapter.framework/Headers/FMPAdapter.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tCCMUaMK0vuhzjxMmtji4CQqDoHqABa6VyuomPmDG4E=
+			YKYMR1vUqv4flJ/Mg9v3qwRshIVh+yNYRyQZ9ezBXa0=
 			</data>
 		</dict>
 		<key>ios-arm64/FMPAdapter.framework/Headers/FMPAdapterAd.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			utjnm+l7Gfc1Y1FDV0BEbl6LKzMhhW8SLotlUxwwLUs=
+			IxvHifvcrro6Qg0Mf2JUlEIA/GQleYkaKSU7afSpofo=
 			</data>
 		</dict>
 		<key>ios-arm64/FMPAdapter.framework/Headers/FMPAdapterAdData.h</key>
@@ -130,11 +138,18 @@
 			anKywd0NHyPNF3+v3qplE5ycElgxB10IIgtHD7LkkPE=
 			</data>
 		</dict>
+		<key>ios-arm64/FMPAdapter.framework/Headers/FMPAdapterNativeAdAssets.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZfJJDG0nsBcxdDhhlI/NUx3QoE01xqItHa8h1csPLLw=
+			</data>
+		</dict>
 		<key>ios-arm64/FMPAdapter.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JR2NQGCs4UUd1FpjHe3RI1spSHO6kkGQ6XLl9t7NeM0=
+			1bJOY/3i17bJ2iilJFlci5rGM8uECKci6liysHxOduU=
 			</data>
 		</dict>
 		<key>ios-arm64/FMPAdapter.framework/Modules/module.modulemap</key>
@@ -148,7 +163,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lJmtd8hTn1oFwsk7CZv/+J0v6qcCXuVZRJZ0hvgeAs4=
+			1pnY3FnHu7Ck0p7AsxFOQPayQMgR44IBTARaRiOgcI0=
 			</data>
 		</dict>
 		<key>ios-arm64/FMPAdapter.framework/_CodeSignature/CodeRequirements</key>
@@ -162,35 +177,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0tlfHY7i6oPAr3W29I3hWwypQgmbTFyu0v8lML3sM6A=
+			KhAMXJKKBf2H2SdcTSbgVInCZ3aU152TsSJ3KaTI97E=
 			</data>
 		</dict>
 		<key>ios-arm64/FMPAdapter.framework/_CodeSignature/CodeSignature</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RvdYZONq6XFmEpW/3k/5HKyIMmA9MoYSyFIJGGmbyYE=
+			02lQ/Gj3z8Pkf9cUA+r4p7lI3kl3QBQ2JPWpIW5qYZo=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/FMPAdapter.framework/FMPAdapter</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EXtaccQYiiYMxn8ZOycH6S2SrNL6YEzenOFGtA4SiTM=
+			Eg/2ReQZDd0lJUUj7r9hQNzrKSdb+bHvMb37yKKcKYM=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/FMPAdapter.framework/Headers/FMPAdapter.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tCCMUaMK0vuhzjxMmtji4CQqDoHqABa6VyuomPmDG4E=
+			YKYMR1vUqv4flJ/Mg9v3qwRshIVh+yNYRyQZ9ezBXa0=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/FMPAdapter.framework/Headers/FMPAdapterAd.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			utjnm+l7Gfc1Y1FDV0BEbl6LKzMhhW8SLotlUxwwLUs=
+			IxvHifvcrro6Qg0Mf2JUlEIA/GQleYkaKSU7afSpofo=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/FMPAdapter.framework/Headers/FMPAdapterAdData.h</key>
@@ -207,11 +222,18 @@
 			anKywd0NHyPNF3+v3qplE5ycElgxB10IIgtHD7LkkPE=
 			</data>
 		</dict>
+		<key>ios-arm64_x86_64-simulator/FMPAdapter.framework/Headers/FMPAdapterNativeAdAssets.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZfJJDG0nsBcxdDhhlI/NUx3QoE01xqItHa8h1csPLLw=
+			</data>
+		</dict>
 		<key>ios-arm64_x86_64-simulator/FMPAdapter.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aj81vUMzUhXx2jZavs3sz1/0hSHznAUuSjKvfiW5wdo=
+			39vN/reQLSzcCcj3bd3GbJCI2IywZ15kr9s7FgDiJ+s=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/FMPAdapter.framework/Modules/module.modulemap</key>
@@ -225,7 +247,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2EKxM6kl07jDnyxLuApi52s4de/7AqE25s9/jA2A2sw=
+			vtb/+Mnh9cTiqqVqb9u/LcFmcD+aqPX7ugCtu1p9B9M=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/FMPAdapter.framework/_CodeSignature/CodeRequirements</key>
@@ -239,7 +261,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jcubad3yisYXcVwRwy6GoAVbT8n6fH9P0DqN3GgwAms=
+			flxdialEPDOmdkDSPB1J8FtwrBrsJ17PzodywyPHQvw=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/FMPAdapter.framework/_CodeSignature/CodeSignature</key>

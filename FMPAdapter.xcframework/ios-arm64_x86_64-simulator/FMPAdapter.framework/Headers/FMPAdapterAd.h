@@ -12,6 +12,7 @@
 #import <UIKit/UIKit.h>
 
 @class FMPAdapterAdData;
+@class FMPAdapterNativeAdAssets;
 
 #pragma mark - Adapter Side
 
@@ -81,6 +82,34 @@
 - (void)adDidComplete;
 - (void)adDidFailToCompleteWithError:(nullable NSError *)error;
  
+@end
+
+#pragma mark - Native
+
+@protocol FMPAdapterNativeAdDelegate;
+@protocol FMPAdapterNativeAd <FMPAdapterAd>
+
+@required
+@property (nonatomic, weak, nullable) id<FMPAdapterNativeAdDelegate> delegate; // override
+@property (nonatomic) BOOL muteVideo;
+
+@end
+
+@protocol FMPAdapterNativeAdDelegate <FMPAdapterAdDelegate>
+
+@required
+- (UIViewController * _Nonnull)parentViewControllerForNativeAd;
+- (void)adDidLoadAssets:(nonnull FMPAdapterNativeAdAssets *)assets;
+
+@optional
+- (void)adDidExpire;
+- (void)adWillPresentFullscreen;
+- (void)adDidPresentFullscreen;
+- (void)adWillDismissFullscreen;
+- (void)adDidDismissFullscreen;
+- (void)adVideoDidComplete;
+- (void)adVideoDidFailWithError:(nonnull NSError *)error;
+
 @end
 
 #endif /* FMPAdapterAd_h */

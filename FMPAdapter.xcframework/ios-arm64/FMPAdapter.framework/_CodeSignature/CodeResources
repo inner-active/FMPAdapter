@@ -6,11 +6,11 @@
 	<dict>
 		<key>Headers/FMPAdapter.h</key>
 		<data>
-		uXgHTsCTnUVqsFBAclKmt+hhxFg=
+		DJqQp8BrRn/ddVPl16nn9MJ1T4M=
 		</data>
 		<key>Headers/FMPAdapterAd.h</key>
 		<data>
-		F286xapfX9FYnAixnywbyIUpheI=
+		Gy8CFr5kXEtaPZ9XQ4o4SPsjP+4=
 		</data>
 		<key>Headers/FMPAdapterAdData.h</key>
 		<data>
@@ -20,9 +20,13 @@
 		<data>
 		Ss9QMYptuCJ1zc5dKX94hvGjlp8=
 		</data>
+		<key>Headers/FMPAdapterNativeAdAssets.h</key>
+		<data>
+		6svssy6sIS+UDGRdg9LhVL6To80=
+		</data>
 		<key>Info.plist</key>
 		<data>
-		Fm62sSZVoI/QRK5bdV01oACPsOc=
+		1MW/AVqui++eoL08aURb3HcG03Y=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -32,17 +36,29 @@
 		<data>
 		6U67GORZowjYytWiMQe2fC35fl0=
 		</data>
+		<key>PrivateHeaders/FMPAdapterNativeAdAssetsInternal.h</key>
+		<data>
+		2tUYzZcHIQp4b5TqgxixzYePKS0=
+		</data>
 		<key>PrivateHeaders/FMPAdapterPrivateAd.h</key>
 		<data>
-		LJXGKOGaMAJUMJvIt5ZNILBM/S8=
+		1LieJzth7AJtscTujiAZGJE2BPo=
 		</data>
 		<key>PrivateHeaders/FMPAdapterPrivateBannerAd.h</key>
 		<data>
-		EzliqYK3BTzsdXrt7pXXE4eS/so=
+		16M0vrwsfs+/4Kxp1KnMgJdZYVA=
 		</data>
 		<key>PrivateHeaders/FMPAdapterPrivateFullscreenAd.h</key>
 		<data>
-		uPZiQxBDSjanbTzqzvFMq0uGKsM=
+		kCj16Br43nud1gYbXtcadcjoAvM=
+		</data>
+		<key>PrivateHeaders/FMPAdapterPrivateNativeAd.h</key>
+		<data>
+		O3qrHxY2NSYSlGBe6waNE3Hmpkw=
+		</data>
+		<key>PrivateHeaders/FMPAdapterPrivateUnitControllerAd.h</key>
+		<data>
+		Uxz9GW1JCxRhZy3BJkGJXS2XCzE=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -51,14 +67,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tCCMUaMK0vuhzjxMmtji4CQqDoHqABa6VyuomPmDG4E=
+			YKYMR1vUqv4flJ/Mg9v3qwRshIVh+yNYRyQZ9ezBXa0=
 			</data>
 		</dict>
 		<key>Headers/FMPAdapterAd.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			utjnm+l7Gfc1Y1FDV0BEbl6LKzMhhW8SLotlUxwwLUs=
+			IxvHifvcrro6Qg0Mf2JUlEIA/GQleYkaKSU7afSpofo=
 			</data>
 		</dict>
 		<key>Headers/FMPAdapterAdData.h</key>
@@ -75,6 +91,13 @@
 			anKywd0NHyPNF3+v3qplE5ycElgxB10IIgtHD7LkkPE=
 			</data>
 		</dict>
+		<key>Headers/FMPAdapterNativeAdAssets.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZfJJDG0nsBcxdDhhlI/NUx3QoE01xqItHa8h1csPLLw=
+			</data>
+		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
@@ -89,25 +112,46 @@
 			r32peg4hM0T7iao4nu60TCuWyeUU85yKYOk3yG6c6aE=
 			</data>
 		</dict>
+		<key>PrivateHeaders/FMPAdapterNativeAdAssetsInternal.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+GctYL9+xAHIzsLzsVA31qhhL057PNgU+wYGlf2krU4=
+			</data>
+		</dict>
 		<key>PrivateHeaders/FMPAdapterPrivateAd.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yhMd8IKgZmeQpVMBPrGCjqozfut1AwLDMqHJvsUA9mM=
+			ex8WxpRLI5Qt6pTx3wu6+ak7FsBpNo7S97YtIU1UNvo=
 			</data>
 		</dict>
 		<key>PrivateHeaders/FMPAdapterPrivateBannerAd.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tz+f9YS1f1eVsSOeShm/YUFdBk3qxqc52Xsd1S9Idck=
+			oMksQ/AUkDLKYOoFNNzYlGAYVUKDUt0ZjBSDVyc6xxs=
 			</data>
 		</dict>
 		<key>PrivateHeaders/FMPAdapterPrivateFullscreenAd.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IfScPI5IGhw0lB49jWoTML6jd9ZHqIyNwkJr1aFhHAU=
+			f6Jzk/tQlt+VoBnSx/UrSb/kDSHLqmPKUenUpUDS8NI=
+			</data>
+		</dict>
+		<key>PrivateHeaders/FMPAdapterPrivateNativeAd.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jfeOCQpiQizssWXZ73BlWe9R0gXeK8WqEzNDcJNAgys=
+			</data>
+		</dict>
+		<key>PrivateHeaders/FMPAdapterPrivateUnitControllerAd.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ksWpVeTRzRGGaDLKzJ++DbwqC9iFNX8JNRgG20NUHWk=
 			</data>
 		</dict>
 	</dict>
