@@ -16,7 +16,7 @@ let package = Package(
         ),
     ],
     dependencies: [
-        .package(url: "https://github.com/inner-active/DTExchangeSDK-iOS-SPM", .exact("8.5.1"))
+        .package(url: "https://github.com/inner-active/DTExchangeSDK-iOS-SPM", .exact("8.5.2"))
     ],
     targets: [
         .target(
@@ -29,8 +29,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "FMPAdapter",
-            url: "https://cdn2.inner-active.mobi/fmp-sdk/files/FMPAdapter-iOS-SPM-8.5.1.zip",
-            checksum: "cf7862d03eb2e365189e507515b5b0d02d12a4a064788f7784e5e4aec6adb189" 
+            url: "https://cdn2.inner-active.mobi/fmp-sdk/files/FMPAdapter-iOS-SPM-8.5.2.zip",
+            checksum: "a954f53493ff681658f3a104fefbf2244cbf96f653ec6c7878b9a24492cc13b0" 
         ),
     ]
 )
